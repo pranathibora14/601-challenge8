@@ -27,3 +27,5 @@ You can add options to executable code like this
 The `echo: false` option disables the printing of code (only output is displayed).
 
 The last movie I watched in a theater was a Bollywood movie called Rocky aur Rani.
+
+For lunch today, I had lentils and rice.
